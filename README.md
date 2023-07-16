@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution]()
-- Live Site URL: [live site]()
+- Solution URL: [Solution](https://github.com/IbrRagab/NFT_Preview_Card_Component)
+- Live Site URL: [live site](https://ibrragab.github.io/NFT_Preview_Card_Component)
 
 ### Built with
 
